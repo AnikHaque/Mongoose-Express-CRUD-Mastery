@@ -1,7 +1,3 @@
-# level-2-assignment-2
-
-GitHub Link: https://github.com/rakibmahmud139/level-2-assignment-2
-
 Live Link: https://assignment-2-rust-five.vercel.app/
 
 **_ follow the below api address to run the application locally _**
